@@ -4,3 +4,10 @@ python-dotenv
 
 google-generativeai
 
+langchain_openai
+
+langchain_google_genai
+
+langchain_ollama
+
+langchain_groq
