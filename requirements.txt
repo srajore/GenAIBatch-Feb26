@@ -11,3 +11,7 @@ langchain_google_genai
 langchain_ollama
 
 langchain_groq
+
+langchain_anthropic
+
+langchain
