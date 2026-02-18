@@ -5,7 +5,7 @@ endpoint = "https://deepdive-resource.cognitiveservices.azure.com/"
 model_name = "gpt-4.1"
 deployment = "gpt-4.1"
 
-subscription_key = "6EOIE7ywy2f1nLhoJ8W3bTibc9EYM2OakVsJiKW3e4Onm8MI7pE1JQQJ99CBACYeBjFXJ3w3AAAAACOGl7Zz"
+subscription_key = ""
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(
