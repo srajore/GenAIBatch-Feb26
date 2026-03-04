@@ -21,3 +21,16 @@ langchain_core
 langchain_aws
 
 boto3
+
+langsmith
+
+huggingface_hub<1.0.0
+
+
+#langchain_huggingface
+
+langchain_community
+
+transformers
+
+streamlit
